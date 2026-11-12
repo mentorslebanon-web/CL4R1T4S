@@ -1,0 +1,488 @@
+[
+ {
+  "vendor": "ANTHROPIC",
+  "name": "CLAUDE-CODE-FABLE-5.2.txt",
+  "path": "prompts/ANTHROPIC/CLAUDE-CODE-FABLE-5.2.txt",
+  "size": 957315
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "CLAUDE-FABLE-5.md",
+  "path": "prompts/ANTHROPIC/CLAUDE-FABLE-5.md",
+  "size": 122750
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "CLAUDE-OPUS-5.5.md",
+  "path": "prompts/ANTHROPIC/CLAUDE-OPUS-5.5.md",
+  "size": 1953216
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "CLAUDE-WEB-APP-FABLE-5.2.md",
+  "path": "prompts/ANTHROPIC/CLAUDE-WEB-APP-FABLE-5.2.md",
+  "size": 427612
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude-4.1.txt",
+  "path": "prompts/ANTHROPIC/Claude-4.1.txt",
+  "size": 58212
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude-4.5-Opus.txt",
+  "path": "prompts/ANTHROPIC/Claude-4.5-Opus.txt",
+  "size": 92710
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude-Design-Sys-Prompt.txt",
+  "path": "prompts/ANTHROPIC/Claude-Design-Sys-Prompt.txt",
+  "size": 73266
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude-Fable-5.1.md",
+  "path": "prompts/ANTHROPIC/Claude-Fable-5.1.md",
+  "size": 275723
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude-Opus-4.7.txt",
+  "path": "prompts/ANTHROPIC/Claude-Opus-4.7.txt",
+  "size": 149724
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude_4.txt",
+  "path": "prompts/ANTHROPIC/Claude_4.txt",
+  "size": 64487
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude_Code_03-04-24.md",
+  "path": "prompts/ANTHROPIC/Claude_Code_03-04-24.md",
+  "size": 1642
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude_Opus_4.6.txt",
+  "path": "prompts/ANTHROPIC/Claude_Opus_4.6.txt",
+  "size": 102687
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude_Sonnet-4.5_Sep-29-2025.txt",
+  "path": "prompts/ANTHROPIC/Claude_Sonnet-4.5_Sep-29-2025.txt",
+  "size": 85298
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude_Sonnet_3.5.md",
+  "path": "prompts/ANTHROPIC/Claude_Sonnet_3.5.md",
+  "size": 22967
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "Claude_Sonnet_3.7_New.txt",
+  "path": "prompts/ANTHROPIC/Claude_Sonnet_3.7_New.txt",
+  "size": 63413
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "OPUS-5.md",
+  "path": "prompts/ANTHROPIC/OPUS-5.md",
+  "size": 202762
+ },
+ {
+  "vendor": "ANTHROPIC",
+  "name": "UserStyle_Modes.md",
+  "path": "prompts/ANTHROPIC/UserStyle_Modes.md",
+  "size": 3749
+ },
+ {
+  "vendor": "BOLT",
+  "name": "Bolt.txt",
+  "path": "prompts/BOLT/Bolt.txt",
+  "size": 16190
+ },
+ {
+  "vendor": "BRAVE",
+  "name": "LEO_Aug-31-2025",
+  "path": "prompts/BRAVE/LEO_Aug-31-2025",
+  "size": 2971
+ },
+ {
+  "vendor": "CLINE",
+  "name": "Cline.md",
+  "path": "prompts/CLINE/Cline.md",
+  "size": 47221
+ },
+ {
+  "vendor": "CLUELY",
+  "name": "Cluely.mkd",
+  "path": "prompts/CLUELY/Cluely.mkd",
+  "size": 4771
+ },
+ {
+  "vendor": "CURSOR",
+  "name": "Cursor_2.0_Sys_Prompt.txt",
+  "path": "prompts/CURSOR/Cursor_2.0_Sys_Prompt.txt",
+  "size": 23082
+ },
+ {
+  "vendor": "CURSOR",
+  "name": "Cursor_Prompt.md",
+  "path": "prompts/CURSOR/Cursor_Prompt.md",
+  "size": 5469
+ },
+ {
+  "vendor": "CURSOR",
+  "name": "Cursor_Tools.md",
+  "path": "prompts/CURSOR/Cursor_Tools.md",
+  "size": 7198
+ },
+ {
+  "vendor": "DEVIN",
+  "name": "Devin2_09-08-2025.md",
+  "path": "prompts/DEVIN/Devin2_09-08-2025.md",
+  "size": 50815
+ },
+ {
+  "vendor": "DEVIN",
+  "name": "Devin_2.0.md",
+  "path": "prompts/DEVIN/Devin_2.0.md",
+  "size": 6056
+ },
+ {
+  "vendor": "DEVIN",
+  "name": "Devin_2.0_Commands.md",
+  "path": "prompts/DEVIN/Devin_2.0_Commands.md",
+  "size": 29591
+ },
+ {
+  "vendor": "DIA",
+  "name": "Dia_CodingSkill.txt",
+  "path": "prompts/DIA/Dia_CodingSkill.txt",
+  "size": 21506
+ },
+ {
+  "vendor": "DIA",
+  "name": "Dia_DraftSkill.txt",
+  "path": "prompts/DIA/Dia_DraftSkill.txt",
+  "size": 9088
+ },
+ {
+  "vendor": "FACTORY",
+  "name": "DROID.txt",
+  "path": "prompts/FACTORY/DROID.txt",
+  "size": 16815
+ },
+ {
+  "vendor": "GOOGLE",
+  "name": "Gemini-2.5-Pro-04-18-2025.md",
+  "path": "prompts/GOOGLE/Gemini-2.5-Pro-04-18-2025.md",
+  "size": 11992
+ },
+ {
+  "vendor": "GOOGLE",
+  "name": "Gemini_Diffusion.md",
+  "path": "prompts/GOOGLE/Gemini_Diffusion.md",
+  "size": 6541
+ },
+ {
+  "vendor": "GOOGLE",
+  "name": "Gemini_Gmail_Assistant.txt",
+  "path": "prompts/GOOGLE/Gemini_Gmail_Assistant.txt",
+  "size": 4554
+ },
+ {
+  "vendor": "HUME",
+  "name": "Hume_Voice_AI.md",
+  "path": "prompts/HUME/Hume_Voice_AI.md",
+  "size": 4436
+ },
+ {
+  "vendor": "LOVABLE",
+  "name": "Lovable_2.0.txt",
+  "path": "prompts/LOVABLE/Lovable_2.0.txt",
+  "size": 16704
+ },
+ {
+  "vendor": "MANUS",
+  "name": "Manus_Functions.txt",
+  "path": "prompts/MANUS/Manus_Functions.txt",
+  "size": 25950
+ },
+ {
+  "vendor": "MANUS",
+  "name": "Manus_Prompt.txt",
+  "path": "prompts/MANUS/Manus_Prompt.txt",
+  "size": 13972
+ },
+ {
+  "vendor": "META",
+  "name": "Llama4_WhatsApp.txt",
+  "path": "prompts/META/Llama4_WhatsApp.txt",
+  "size": 3949
+ },
+ {
+  "vendor": "META",
+  "name": "Muse_Spark_Apr-08-26.txt",
+  "path": "prompts/META/Muse_Spark_Apr-08-26.txt",
+  "size": 49487
+ },
+ {
+  "vendor": "MINIMAX",
+  "name": "MiniMax.txt",
+  "path": "prompts/MINIMAX/MiniMax.txt",
+  "size": 2495
+ },
+ {
+  "vendor": "MISTRAL",
+  "name": "LeChat.md",
+  "path": "prompts/MISTRAL/LeChat.md",
+  "size": 6630
+ },
+ {
+  "vendor": "MOONSHOT",
+  "name": "Kimi_2_July-11-2025.txt",
+  "path": "prompts/MOONSHOT/Kimi_2_July-11-2025.txt",
+  "size": 1420
+ },
+ {
+  "vendor": "MOONSHOT",
+  "name": "Kimi_K2_Thinking.txt",
+  "path": "prompts/MOONSHOT/Kimi_K2_Thinking.txt",
+  "size": 955
+ },
+ {
+  "vendor": "MULTION",
+  "name": "MultiOn.md",
+  "path": "prompts/MULTION/MultiOn.md",
+  "size": 9311
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Atlas_10-21-25.txt",
+  "path": "prompts/OPENAI/Atlas_10-21-25.txt",
+  "size": 33468
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "ChatGPT-4o_Sep-27-25.txt",
+  "path": "prompts/OPENAI/ChatGPT-4o_Sep-27-25.txt",
+  "size": 8871
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "ChatGPT5-08-07-2025.mkd",
+  "path": "prompts/OPENAI/ChatGPT5-08-07-2025.mkd",
+  "size": 27816
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "ChatGPT_4.1_05-15-2025.txt",
+  "path": "prompts/OPENAI/ChatGPT_4.1_05-15-2025.txt",
+  "size": 9216
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "ChatGPT_4o_04-25-2025.txt",
+  "path": "prompts/OPENAI/ChatGPT_4o_04-25-2025.txt",
+  "size": 8626
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "ChatGPT_Personality_v2_Change.md",
+  "path": "prompts/OPENAI/ChatGPT_Personality_v2_Change.md",
+  "size": 1199
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "ChatGPT_o3_o4-mini_04-16-2025",
+  "path": "prompts/OPENAI/ChatGPT_o3_o4-mini_04-16-2025",
+  "size": 15434
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "ChatKit_Docs__Oct-6-25.txt",
+  "path": "prompts/OPENAI/ChatKit_Docs__Oct-6-25.txt",
+  "size": 73121
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex.md",
+  "path": "prompts/OPENAI/Codex.md",
+  "size": 6242
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex_Desktop/5.6-Sol_SystemPrompt.md",
+  "path": "prompts/OPENAI/Codex_Desktop/5.6-Sol_SystemPrompt.md",
+  "size": 300534
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex_Desktop/5.6-Sol_Tools.json",
+  "path": "prompts/OPENAI/Codex_Desktop/5.6-Sol_Tools.json",
+  "size": 394539
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex_Desktop/GPT-6-Astra_Prompts.md",
+  "path": "prompts/OPENAI/Codex_Desktop/GPT-6-Astra_Prompts.md",
+  "size": 338952
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex_Desktop/GPT-6-Astra_Tools.json",
+  "path": "prompts/OPENAI/Codex_Desktop/GPT-6-Astra_Tools.json",
+  "size": 1177481
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex_Desktop/GPT-6-Sol_Prompts.txt",
+  "path": "prompts/OPENAI/Codex_Desktop/GPT-6-Sol_Prompts.txt",
+  "size": 161166
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex_Desktop/GPT-6-Sol_Tools.json",
+  "path": "prompts/OPENAI/Codex_Desktop/GPT-6-Sol_Tools.json",
+  "size": 139048
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "Codex_Sep-15-2025.md",
+  "path": "prompts/OPENAI/Codex_Sep-15-2025.md",
+  "size": 11753
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "GPT-4.5_02-27-25.md",
+  "path": "prompts/OPENAI/GPT-4.5_02-27-25.md",
+  "size": 8574
+ },
+ {
+  "vendor": "OPENAI",
+  "name": "GPT-4o_Image_Gen_Postfill.txt",
+  "path": "prompts/OPENAI/GPT-4o_Image_Gen_Postfill.txt",
+  "size": 278
+ },
+ {
+  "vendor": "PERPLEXITY",
+  "name": "Perplexity_Deep_Research.txt",
+  "path": "prompts/PERPLEXITY/Perplexity_Deep_Research.txt",
+  "size": 7622
+ },
+ {
+  "vendor": "REPLIT",
+  "name": "Replit_Agent.md",
+  "path": "prompts/REPLIT/Replit_Agent.md",
+  "size": 6716
+ },
+ {
+  "vendor": "REPLIT",
+  "name": "Replit_Functions.md",
+  "path": "prompts/REPLIT/Replit_Functions.md",
+  "size": 20786
+ },
+ {
+  "vendor": "REPLIT",
+  "name": "Replit_Initial_Code_Generation_Prompt.md",
+  "path": "prompts/REPLIT/Replit_Initial_Code_Generation_Prompt.md",
+  "size": 4505
+ },
+ {
+  "vendor": "ROOT",
+  "name": "LICENSE",
+  "path": "prompts/LICENSE",
+  "size": 34523
+ },
+ {
+  "vendor": "SAMEDEV",
+  "name": "Same_Dev.txt",
+  "path": "prompts/SAMEDEV/Same_Dev.txt",
+  "size": 22145
+ },
+ {
+  "vendor": "VERCEL V0",
+  "name": "Vercel_v0.txt",
+  "path": "prompts/VERCEL V0/Vercel_v0.txt",
+  "size": 20059
+ },
+ {
+  "vendor": "WINDSURF",
+  "name": "Windsurf_Prompt.md",
+  "path": "prompts/WINDSURF/Windsurf_Prompt.md",
+  "size": 8957
+ },
+ {
+  "vendor": "WINDSURF",
+  "name": "Windsurf_Tools.md",
+  "path": "prompts/WINDSURF/Windsurf_Tools.md",
+  "size": 24803
+ },
+ {
+  "vendor": "XAI",
+  "name": "GROK-4-NEW_Jul-13-2025",
+  "path": "prompts/XAI/GROK-4-NEW_Jul-13-2025",
+  "size": 9869
+ },
+ {
+  "vendor": "XAI",
+  "name": "GROK-4.1_Nov-17-2025.txt",
+  "path": "prompts/XAI/GROK-4.1_Nov-17-2025.txt",
+  "size": 13739
+ },
+ {
+  "vendor": "XAI",
+  "name": "GROK-4.20.mkd",
+  "path": "prompts/XAI/GROK-4.20.mkd",
+  "size": 15306
+ },
+ {
+  "vendor": "XAI",
+  "name": "Grok-Code-Fast-1_Aug-26-2025.txt",
+  "path": "prompts/XAI/Grok-Code-Fast-1_Aug-26-2025.txt",
+  "size": 3917
+ },
+ {
+  "vendor": "XAI",
+  "name": "Grok3.md",
+  "path": "prompts/XAI/Grok3.md",
+  "size": 2851
+ },
+ {
+  "vendor": "XAI",
+  "name": "Grok3_updated_07-08-2025.md",
+  "path": "prompts/XAI/Grok3_updated_07-08-2025.md",
+  "size": 3652
+ },
+ {
+  "vendor": "XAI",
+  "name": "Grok4-July-10-2025.md",
+  "path": "prompts/XAI/Grok4-July-10-2025.md",
+  "size": 10090
+ },
+ {
+  "vendor": "ZAI",
+  "name": "ZCode/Prompts.md",
+  "path": "prompts/ZAI/ZCode/Prompts.md",
+  "size": 131706
+ },
+ {
+  "vendor": "ZAI",
+  "name": "ZCode/Skills.md",
+  "path": "prompts/ZAI/ZCode/Skills.md",
+  "size": 191582
+ },
+ {
+  "vendor": "ZAI",
+  "name": "ZCode/Tools.json",
+  "path": "prompts/ZAI/ZCode/Tools.json",
+  "size": 70804
+ }
+]
